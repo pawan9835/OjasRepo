@@ -8,6 +8,8 @@ public class CalculateTion {
 	}
 
 	
+	//durgesh kumar yaddav
+	
 	public void substract(int a,int b){
 		
 		
